@@ -43,7 +43,7 @@ lane :provision do
     app_name: 'CrowdBoticsStarterb1607c18',
     language: 'English',
     app_version: '1.0',
-    sku: 'cb123b1607c18',
+    sku: 'cb123',
     team_name: 'CrowdBotics'
   )
   cert(
